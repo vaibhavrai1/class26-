@@ -16,6 +16,10 @@ function setup(){
     world = engine.world;
 
 
+//test work gitbash 
+
+
+
     ground = new Ground(600,height,1200,20);
     platform = new Ground(150, 305, 300, 170);
 
